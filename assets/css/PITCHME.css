@@ -13,6 +13,7 @@ p {
     color: fuchsia;
 }
 
-h1 {
+.reveal h1 {
     font-size: 3em;
+    color: fuchsia;
 }
