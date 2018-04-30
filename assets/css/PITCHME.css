@@ -3,17 +3,37 @@ body {
     color: fuchsia;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+.reveal h1 {
+    font-size: 3em;
     color: fuchsia;
 }
 
-.reveal h1 {
+.reveal h2 {
+    font-size: 3em;
+    color: fuchsia;
+}
+
+.reveal h3 {
+    font-size: 3em;
+    color: fuchsia;
+}
+
+.reveal h4 {
+    font-size: 3em;
+    color: fuchsia;
+}
+
+.reveal h5 {
+    font-size: 3em;
+    color: fuchsia;
+}
+
+.reveal h6 {
+    font-size: 3em;
+    color: fuchsia;
+}
+
+.reveal p {
     font-size: 3em;
     color: fuchsia;
 }
